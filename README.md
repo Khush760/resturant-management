@@ -1,2 +1,2 @@
-# resturant-management
+# resturant-management system 
 minor project
